@@ -18,18 +18,18 @@ alongside it.
 
 | Demo          | Parts | Assembly environment                                                             | Instructions                                                    |
 | ------------- | ----: | -------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| APPLARO bench |     4 | [Open](https://3dwebagent.davidz.cn/?episode=examples/applaro/scene.episode.zip) | [Manual](https://3dwebagent.davidz.cn/examples/applaro/manual/) |
-| REIDAR chair  |     6 | [Open](https://3dwebagent.davidz.cn/?episode=examples/reidar/scene.episode.zip)  | [Manual](https://3dwebagent.davidz.cn/examples/reidar/manual/)  |
-| VITTSJO table |     8 | [Open](https://3dwebagent.davidz.cn/?episode=examples/vittsjo/scene.episode.zip) | [Manual](https://3dwebagent.davidz.cn/examples/vittsjo/manual/) |
+| APPLARO bench |     4 | [Open](https://assemblyworld.github.io/3DWebAgent/?episode=examples/applaro/scene.episode.zip) | [Manual](https://assemblyworld.github.io/3DWebAgent/examples/applaro/manual/) |
+| REIDAR chair  |     6 | [Open](https://assemblyworld.github.io/3DWebAgent/?episode=examples/reidar/scene.episode.zip)  | [Manual](https://assemblyworld.github.io/3DWebAgent/examples/reidar/manual/)  |
+| VITTSJO table |     8 | [Open](https://assemblyworld.github.io/3DWebAgent/?episode=examples/vittsjo/scene.episode.zip) | [Manual](https://assemblyworld.github.io/3DWebAgent/examples/vittsjo/manual/) |
 
 **APPLARO bench**
 
 ```text
 Assemble the APPLARO bench in this browser environment:
-https://3dwebagent.davidz.cn/?episode=examples/applaro/scene.episode.zip
+https://assemblyworld.github.io/3DWebAgent/?episode=examples/applaro/scene.episode.zip
 
 Follow the assembly manual at:
-https://3dwebagent.davidz.cn/examples/applaro/manual/
+https://assemblyworld.github.io/3DWebAgent/examples/applaro/manual/
 
 Use the environment's WebMCP tools to inspect and position the parts.
 Capture the scene to check your work against the manual.
@@ -39,10 +39,10 @@ Capture the scene to check your work against the manual.
 
 ```text
 Assemble the REIDAR chair in this browser environment:
-https://3dwebagent.davidz.cn/?episode=examples/reidar/scene.episode.zip
+https://assemblyworld.github.io/3DWebAgent/?episode=examples/reidar/scene.episode.zip
 
 Follow the assembly manual at:
-https://3dwebagent.davidz.cn/examples/reidar/manual/
+https://assemblyworld.github.io/3DWebAgent/examples/reidar/manual/
 
 Use the environment's WebMCP tools to inspect and position the parts.
 Capture the scene to check your work against the manual.
@@ -52,10 +52,10 @@ Capture the scene to check your work against the manual.
 
 ```text
 Assemble the VITTSJO table in this browser environment:
-https://3dwebagent.davidz.cn/?episode=examples/vittsjo/scene.episode.zip
+https://assemblyworld.github.io/3DWebAgent/?episode=examples/vittsjo/scene.episode.zip
 
 Follow the assembly manual at:
-https://3dwebagent.davidz.cn/examples/vittsjo/manual/
+https://assemblyworld.github.io/3DWebAgent/examples/vittsjo/manual/
 
 Use the environment's WebMCP tools to inspect and position the parts.
 Capture the scene to check your work against the manual.
